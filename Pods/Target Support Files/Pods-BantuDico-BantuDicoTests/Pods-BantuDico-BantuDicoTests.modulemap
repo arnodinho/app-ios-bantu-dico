@@ -1,0 +1,6 @@
+module Pods_BantuDico_BantuDicoTests {
+  umbrella header "Pods-BantuDico-BantuDicoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
